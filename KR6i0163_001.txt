@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:35.344895
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:46
 #+TITLE: 菩薩生地經
 #+PROPERTY: CBETA_ID T14n0533
 #+PROPERTY: ID KR6i0163
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 533
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0163_T_000-0814a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0163_T_001-0814a> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.533¶
-
- 菩薩生地經¶
+No. 533¶
+菩薩生地經¶
 ¶
 吳月氏優婆塞支謙譯¶
 
@@ -70,9 +69,9 @@ No.533¶
 　夫欲疾得佛，
 　常修戒德本，¶
 　依受善師教，
-　等心施於人。
+　等心施於人。」
 #+END_VERSE
-」¶
+¶
 
 「又有四事行疾得佛。何等為四？一曰、愛樂¶
 明經，好菩薩道，盡心護法，教誨於人；二曰、遠¶
@@ -97,9 +96,9 @@ No.533¶
 　是以清高士，
 　常防遠女色，¶
 　淨修菩薩道，
-　大悲濟天下。」
+　大悲濟天下。」」
 #+END_VERSE
-」¶
+¶
 
 於是差摩竭，即解身珠寶瓔珞用散佛上，佛¶
 之威神，令其所散止於虛空，化成寶蓋，中有¶
@@ -158,9 +157,9 @@ No.533¶
 「　「若信學生地經，
 　其功德無有量，¶
 　斯已度三惡道，
-　後受者福皆然。」
+　後受者福皆然。」」
 #+END_VERSE
-」¶
+¶
 
 佛說此已，差摩竭及四輩弟子、諸天龍神，皆¶
 歡喜受持。
